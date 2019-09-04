@@ -1521,6 +1521,7 @@
       "outDir": "C:/Users/Anuitex/Desktop/server/dist",
       "baseUrl": "C:/Users/Anuitex/Desktop/server/",
       "incremental": true,
+      "watch": true,
       "project": "tsconfig.build.json",
       "configFilePath": "C:/Users/Anuitex/Desktop/server/tsconfig.build.json"
     },
