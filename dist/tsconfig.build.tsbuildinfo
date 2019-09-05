@@ -1,13 +1,9 @@
 {
   "program": {
     "fileInfos": {
-      "c:/users/anuitex/desktop/server/node_modules/typescript/lib/lib.es6.d.ts": {
-        "version": "c180f01a2aaac7d733001fa1db20f881dc83cf33096b674a1546ca26762e69da",
-        "signature": "c180f01a2aaac7d733001fa1db20f881dc83cf33096b674a1546ca26762e69da"
-      },
       "c:/users/anuitex/desktop/server/node_modules/typescript/lib/lib.es5.d.ts": {
-        "version": "c8665e66018917580e71792b91022bcaf53fb946fab4aaf8dfb0738ed564db88",
-        "signature": "c8665e66018917580e71792b91022bcaf53fb946fab4aaf8dfb0738ed564db88"
+        "version": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0",
+        "signature": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0"
       },
       "c:/users/anuitex/desktop/server/node_modules/typescript/lib/lib.es2015.d.ts": {
         "version": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96",
@@ -26,12 +22,12 @@
         "signature": "2edd3ddf436ef8e12df876dcae4ecd6a8748577944c477bf4b20d5596e0c9843"
       },
       "c:/users/anuitex/desktop/server/node_modules/typescript/lib/lib.dom.d.ts": {
-        "version": "6994c583b66862deca24d7bbf77297d95b9d3da8160dbd9beef6b847cf7c1376",
-        "signature": "6994c583b66862deca24d7bbf77297d95b9d3da8160dbd9beef6b847cf7c1376"
+        "version": "973df4e41aea3780ce77073777d37dd5896f684124f4c42409f3a832133837a4",
+        "signature": "973df4e41aea3780ce77073777d37dd5896f684124f4c42409f3a832133837a4"
       },
       "c:/users/anuitex/desktop/server/node_modules/typescript/lib/lib.dom.iterable.d.ts": {
-        "version": "4c892766803cef795d73d69aee436dc7a80157163e0cf35e6d0e86917cbd42f3",
-        "signature": "4c892766803cef795d73d69aee436dc7a80157163e0cf35e6d0e86917cbd42f3"
+        "version": "eb843da29336c7d5840bb439b24cf68a4a1652fd01c6e4e66ec74d8b136e944a",
+        "signature": "eb843da29336c7d5840bb439b24cf68a4a1652fd01c6e4e66ec74d8b136e944a"
       },
       "c:/users/anuitex/desktop/server/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
         "version": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b",
@@ -42,8 +38,8 @@
         "signature": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9"
       },
       "c:/users/anuitex/desktop/server/node_modules/typescript/lib/lib.es2015.core.d.ts": {
-        "version": "384f66a3422d80014c51de2682159bb26f1e35854029880ccd5f6d1f00e6a36d",
-        "signature": "384f66a3422d80014c51de2682159bb26f1e35854029880ccd5f6d1f00e6a36d"
+        "version": "2a0390a665763bcc90f0670e43c587928d8fefe2a94a11209c1e22cba7b09f52",
+        "signature": "2a0390a665763bcc90f0670e43c587928d8fefe2a94a11209c1e22cba7b09f52"
       },
       "c:/users/anuitex/desktop/server/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
         "version": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0",
@@ -54,12 +50,12 @@
         "signature": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3"
       },
       "c:/users/anuitex/desktop/server/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
-        "version": "4d1f39313a169b8599b8817688f504b56ba8204c2ebafd03f66ff77ddb1899a4",
-        "signature": "4d1f39313a169b8599b8817688f504b56ba8204c2ebafd03f66ff77ddb1899a4"
+        "version": "6c9f73334f8bf47aea685ca5b46a8f7e992a223e96fbceb030f26a4d2324ba21",
+        "signature": "6c9f73334f8bf47aea685ca5b46a8f7e992a223e96fbceb030f26a4d2324ba21"
       },
       "c:/users/anuitex/desktop/server/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
-        "version": "7c07d934680d0e33275a44d22fb11a4ff31d46c8c26a8d056828a478753f1efe",
-        "signature": "7c07d934680d0e33275a44d22fb11a4ff31d46c8c26a8d056828a478753f1efe"
+        "version": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2",
+        "signature": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2"
       },
       "c:/users/anuitex/desktop/server/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
         "version": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe",
@@ -125,6 +121,10 @@
         "version": "63b66918290d794f73832a6d0325be5026236674fe8c0cb0b68d162000d7bbe8",
         "signature": "63b66918290d794f73832a6d0325be5026236674fe8c0cb0b68d162000d7bbe8"
       },
+      "c:/users/anuitex/desktop/server/node_modules/typescript/lib/lib.es2017.full.d.ts": {
+        "version": "873c09f1c309389742d98b7b67419a8e0a5fa6f10ce59fd5149ecd31a2818594",
+        "signature": "873c09f1c309389742d98b7b67419a8e0a5fa6f10ce59fd5149ecd31a2818594"
+      },
       "c:/users/anuitex/desktop/server/node_modules/reflect-metadata/index.d.ts": {
         "version": "8d6d51a5118d000ed3bfe6e1dd1335bebfff3fef23cd2af2f84a24d30f90cc90",
         "signature": "8d6d51a5118d000ed3bfe6e1dd1335bebfff3fef23cd2af2f84a24d30f90cc90"
@@ -146,8 +146,8 @@
         "signature": "a7ed831a671a8de99164c7cafd0f311237b25730f1c9d3a326980dfed2c9a1f2"
       },
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/features/arguments-host.interface.d.ts": {
-        "version": "8cda6e92794c20d985f91f2e1ce9e65f1d2e53cede6fd414755d3a6362abbc20",
-        "signature": "8cda6e92794c20d985f91f2e1ce9e65f1d2e53cede6fd414755d3a6362abbc20"
+        "version": "4bd2f0d23abad261d4b632e780a4f1341036b9c39a7d5006179ede1f0cbf78a4",
+        "signature": "4bd2f0d23abad261d4b632e780a4f1341036b9c39a7d5006179ede1f0cbf78a4"
       },
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/exceptions/exception-filter.interface.d.ts": {
         "version": "2dc3ebe3efd324b3d8ef8bd574c7f09489aa8d1e34afcc7adba7752ff4e31bc1",
@@ -554,164 +554,164 @@
         "signature": "f08d767464d9a6bee44d9c7baa6e2bde10c3814457f22d83b48d77e732a72ea6"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/globals.d.ts": {
-        "version": "6062bf0c69f8a4bb7f5bb817634899e94fbe74822e59187584a50277215d6dfc",
-        "signature": "6062bf0c69f8a4bb7f5bb817634899e94fbe74822e59187584a50277215d6dfc"
+        "version": "e4461b72726848da76a31153b6b01af5e0be3b08dbfa2ec5741ad302eb20f2ed",
+        "signature": "e4461b72726848da76a31153b6b01af5e0be3b08dbfa2ec5741ad302eb20f2ed"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/assert.d.ts": {
-        "version": "e37e4814461321ef67cbb2f4c9def6be18ff85670e6c665131b320e052905b75",
-        "signature": "e37e4814461321ef67cbb2f4c9def6be18ff85670e6c665131b320e052905b75"
+        "version": "58a52f282f1dad18179023804c1f3a7536bf875748a0a314abd43f60fd5b244f",
+        "signature": "58a52f282f1dad18179023804c1f3a7536bf875748a0a314abd43f60fd5b244f"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/async_hooks.d.ts": {
-        "version": "138476cfdccbb9e2c7e06602bc216af843a56c4f3469a79106bc660ba94bd66a",
-        "signature": "138476cfdccbb9e2c7e06602bc216af843a56c4f3469a79106bc660ba94bd66a"
+        "version": "1305b079a057355f496bdde048716189178877a6b4fe0e9267a46af67f8c7561",
+        "signature": "1305b079a057355f496bdde048716189178877a6b4fe0e9267a46af67f8c7561"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/buffer.d.ts": {
-        "version": "fe892fea1e75a442fffb4a604d7eeb451e858787a9f2f01c4e83bf12a3b5048d",
-        "signature": "fe892fea1e75a442fffb4a604d7eeb451e858787a9f2f01c4e83bf12a3b5048d"
+        "version": "61215c1a376bbe8f51cab4cc4ddbf3746387015113c37a84d981d4738c21b878",
+        "signature": "61215c1a376bbe8f51cab4cc4ddbf3746387015113c37a84d981d4738c21b878"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/child_process.d.ts": {
-        "version": "13084b2c9d246289892aceb7ecc3fe9666a9cf6d8e59cae17f76649f4e0773e8",
-        "signature": "13084b2c9d246289892aceb7ecc3fe9666a9cf6d8e59cae17f76649f4e0773e8"
+        "version": "123366127434e33eade36f3d06653dbc7457397fc93cfdd100776cfc12b6734c",
+        "signature": "123366127434e33eade36f3d06653dbc7457397fc93cfdd100776cfc12b6734c"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/cluster.d.ts": {
-        "version": "d2704553f735d9b9cf31a26cbf4dd085e89b0ec3eec33d684b2517555370b665",
-        "signature": "d2704553f735d9b9cf31a26cbf4dd085e89b0ec3eec33d684b2517555370b665"
+        "version": "ce629710e5e58724902b753212e97861fd73e2aa09f5d88cb6d55dc763cf8c8a",
+        "signature": "ce629710e5e58724902b753212e97861fd73e2aa09f5d88cb6d55dc763cf8c8a"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/console.d.ts": {
         "version": "525c8fc510d9632d2a0a9de2d41c3ac1cdd79ff44d3b45c6d81cacabb683528d",
         "signature": "525c8fc510d9632d2a0a9de2d41c3ac1cdd79ff44d3b45c6d81cacabb683528d"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/constants.d.ts": {
-        "version": "b952021e804dcd9cb5e5552e1ec8bf9f479b61e20da5641e2a542fe77db9a598",
-        "signature": "b952021e804dcd9cb5e5552e1ec8bf9f479b61e20da5641e2a542fe77db9a598"
+        "version": "8ce9418c78d3c1fb703ddbe38c936d34a989ba278666979826590dfa0772a424",
+        "signature": "8ce9418c78d3c1fb703ddbe38c936d34a989ba278666979826590dfa0772a424"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/crypto.d.ts": {
-        "version": "f90120103b77109ebe2200634aaeda213e285fc15caf437f3ff260255507b264",
-        "signature": "f90120103b77109ebe2200634aaeda213e285fc15caf437f3ff260255507b264"
+        "version": "77c1fb6a190212f87a5edb26351d419c31dff1992c48707540cdcf812e4655f1",
+        "signature": "77c1fb6a190212f87a5edb26351d419c31dff1992c48707540cdcf812e4655f1"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/dgram.d.ts": {
-        "version": "3d1cb0eaae19fa89fe381bba6d5a149d1bf34efc0134220879f57e2061732a6d",
-        "signature": "3d1cb0eaae19fa89fe381bba6d5a149d1bf34efc0134220879f57e2061732a6d"
+        "version": "7954df44c35d39b851b996fdc1af0a252e4e23f862abfef388a058203bb94c30",
+        "signature": "7954df44c35d39b851b996fdc1af0a252e4e23f862abfef388a058203bb94c30"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/dns.d.ts": {
-        "version": "05e732266b5a36789fd9eb846b1f45fec1b6e318b740e3f20fc22fd95f9ebf31",
-        "signature": "05e732266b5a36789fd9eb846b1f45fec1b6e318b740e3f20fc22fd95f9ebf31"
+        "version": "ef226a42de7022eacdfa0f15aabf73b46c47af93044c8ebfab8aa8e3cf6c330c",
+        "signature": "ef226a42de7022eacdfa0f15aabf73b46c47af93044c8ebfab8aa8e3cf6c330c"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/domain.d.ts": {
-        "version": "ae3487bdb9b50c1d8bbeb6b55c8b2b9aa79bbc46d7afbc3483169ad8750c4304",
-        "signature": "ae3487bdb9b50c1d8bbeb6b55c8b2b9aa79bbc46d7afbc3483169ad8750c4304"
+        "version": "d5b7c8819ce1bd31a45f7675309e145ec28e3aa1b60a8e0637fd0e8916255baa",
+        "signature": "d5b7c8819ce1bd31a45f7675309e145ec28e3aa1b60a8e0637fd0e8916255baa"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/events.d.ts": {
-        "version": "4a419878f025046ff6748d073123b0451849f83b7dbca907037a53e3eaa9bbbb",
-        "signature": "4a419878f025046ff6748d073123b0451849f83b7dbca907037a53e3eaa9bbbb"
+        "version": "0be551fde848d5adde38731272ee980bda2bde0f8bf2a76ce99e01b86985546c",
+        "signature": "0be551fde848d5adde38731272ee980bda2bde0f8bf2a76ce99e01b86985546c"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/fs.d.ts": {
-        "version": "6fb7f35ccf86d2bd2e1b5b1a6f481206f095a78f62218c62776614af5b8c14a1",
-        "signature": "6fb7f35ccf86d2bd2e1b5b1a6f481206f095a78f62218c62776614af5b8c14a1"
+        "version": "6bd120d96313412155ae7d4766d586a38576a058b3e269be2152db7030fbc882",
+        "signature": "6bd120d96313412155ae7d4766d586a38576a058b3e269be2152db7030fbc882"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/http.d.ts": {
-        "version": "896c59370c35abd48415751b78ce927eda463a20f1a3921bf3dc4962504ec06e",
-        "signature": "896c59370c35abd48415751b78ce927eda463a20f1a3921bf3dc4962504ec06e"
+        "version": "db6de49919cf11a300f9203371d8e251d58558c509b3b92cee3badadfdb34d36",
+        "signature": "db6de49919cf11a300f9203371d8e251d58558c509b3b92cee3badadfdb34d36"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/http2.d.ts": {
-        "version": "e36a3ca6d86f19ff207dabc61d27088c464f2dc3ffb64b0daf17dc33b85191e6",
-        "signature": "e36a3ca6d86f19ff207dabc61d27088c464f2dc3ffb64b0daf17dc33b85191e6"
+        "version": "745494f14a9e133beee622ca51cdc59c8896ff77c9f3cd017a4ce735b30dac2d",
+        "signature": "745494f14a9e133beee622ca51cdc59c8896ff77c9f3cd017a4ce735b30dac2d"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/https.d.ts": {
-        "version": "152af7c23ec219f632afa2d861abc65993f56cd39a4f3a4018515dbc05950a74",
-        "signature": "152af7c23ec219f632afa2d861abc65993f56cd39a4f3a4018515dbc05950a74"
+        "version": "dacbe08610729f6343ea9880ea8e737c6d7a6efa4a318d8f6acaf85db4aceed6",
+        "signature": "dacbe08610729f6343ea9880ea8e737c6d7a6efa4a318d8f6acaf85db4aceed6"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/inspector.d.ts": {
-        "version": "3a0bdc4c5b6f84a1abb5356d7a7fa1f96ac6c5b5646eec3ef2b33c1ed095e155",
-        "signature": "3a0bdc4c5b6f84a1abb5356d7a7fa1f96ac6c5b5646eec3ef2b33c1ed095e155"
+        "version": "4218ced3933a31eed1278d350dd63c5900df0f0904f57d61c054d7a4b83dbe4c",
+        "signature": "4218ced3933a31eed1278d350dd63c5900df0f0904f57d61c054d7a4b83dbe4c"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/module.d.ts": {
         "version": "03394bf8deb8781b490ae9266a843fbdf00647947d79e25fcbf1d89a9e9c8a66",
         "signature": "03394bf8deb8781b490ae9266a843fbdf00647947d79e25fcbf1d89a9e9c8a66"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/net.d.ts": {
-        "version": "56a15cc211894d79aa44cbb46c276bfd3f10458a61bff2dec99114db8a7e71e3",
-        "signature": "56a15cc211894d79aa44cbb46c276bfd3f10458a61bff2dec99114db8a7e71e3"
+        "version": "1224b49e2c8f3b4ed618969d2989412d1282536d2a6a31c30c84d5da01d8b8e4",
+        "signature": "1224b49e2c8f3b4ed618969d2989412d1282536d2a6a31c30c84d5da01d8b8e4"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/os.d.ts": {
-        "version": "0ab49f803fa1d0f26682096e87ae239be05fee89ac538d30c59ab5a15bd38e6a",
-        "signature": "0ab49f803fa1d0f26682096e87ae239be05fee89ac538d30c59ab5a15bd38e6a"
+        "version": "1a6016bd905855b2b45881e9edbd7ab8c7175f8bcbb711ff06989c4bcdc75486",
+        "signature": "1a6016bd905855b2b45881e9edbd7ab8c7175f8bcbb711ff06989c4bcdc75486"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/path.d.ts": {
-        "version": "61c84c3b0eb6e60196d15ae5e21793a1d4241c547f0bdd0529ffae838d1a073c",
-        "signature": "61c84c3b0eb6e60196d15ae5e21793a1d4241c547f0bdd0529ffae838d1a073c"
+        "version": "5fb30076f0e0e5744db8993648bfb67aadd895f439edad5cce039127a87a8a36",
+        "signature": "5fb30076f0e0e5744db8993648bfb67aadd895f439edad5cce039127a87a8a36"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/perf_hooks.d.ts": {
-        "version": "981192e57b0e159c977f1d8e8b8576e9d6b4e013b902e9c0d4b178cb47e2dc86",
-        "signature": "981192e57b0e159c977f1d8e8b8576e9d6b4e013b902e9c0d4b178cb47e2dc86"
+        "version": "27ef4001526ee9d8afa57687a60bb3b59c52b32d29db0a2260094ab64726164f",
+        "signature": "27ef4001526ee9d8afa57687a60bb3b59c52b32d29db0a2260094ab64726164f"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/process.d.ts": {
         "version": "3a8848a9c307429b861402cc69bc472ffe0c05b86474fc158723169161e16389",
         "signature": "3a8848a9c307429b861402cc69bc472ffe0c05b86474fc158723169161e16389"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/punycode.d.ts": {
-        "version": "eeb0d1ad28e70773ac57ae9fe939c3bad6af2525a463c28f9ec31b5953de6735",
-        "signature": "eeb0d1ad28e70773ac57ae9fe939c3bad6af2525a463c28f9ec31b5953de6735"
+        "version": "30ec6f9c683b988c3cfaa0c4690692049c4e7ed7dc6f6e94f56194c06b86f5e1",
+        "signature": "30ec6f9c683b988c3cfaa0c4690692049c4e7ed7dc6f6e94f56194c06b86f5e1"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/querystring.d.ts": {
-        "version": "8969e0b4d22ca77ad011c8fc4a25ec5d515bdfae4ecbd22608ed0d5c38829c1e",
-        "signature": "8969e0b4d22ca77ad011c8fc4a25ec5d515bdfae4ecbd22608ed0d5c38829c1e"
+        "version": "e0070c45bf15b872f58eee948f71ad6f4f424f36330b2477753fc1aed3ece36e",
+        "signature": "e0070c45bf15b872f58eee948f71ad6f4f424f36330b2477753fc1aed3ece36e"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/readline.d.ts": {
-        "version": "544728a999d35afc7b9e6d7420fb10046c16fcc5cb54fef21d2f5de78bf98830",
-        "signature": "544728a999d35afc7b9e6d7420fb10046c16fcc5cb54fef21d2f5de78bf98830"
+        "version": "b0bc3b2fd4113d182da1af2442ac532b987401579b291669859b60a261b7ee24",
+        "signature": "b0bc3b2fd4113d182da1af2442ac532b987401579b291669859b60a261b7ee24"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/repl.d.ts": {
-        "version": "d0b0b533dc34ff7ffd019665fdc2b2aeae717bc1347e17a5bdc4d6572b5c109a",
-        "signature": "d0b0b533dc34ff7ffd019665fdc2b2aeae717bc1347e17a5bdc4d6572b5c109a"
+        "version": "65dbe15ed8a8ed5d4707a63868178dc38111cfc06de28a2e50713ca017a9c157",
+        "signature": "65dbe15ed8a8ed5d4707a63868178dc38111cfc06de28a2e50713ca017a9c157"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/stream.d.ts": {
-        "version": "c07900741b39a32e2167f08aadcdea84b077727f828f27ceebf534715ea66d97",
-        "signature": "c07900741b39a32e2167f08aadcdea84b077727f828f27ceebf534715ea66d97"
+        "version": "2350c09d0121a0b22c386a7bb8436d521b444c6b4b3e6ee37197d08a23f3b9dd",
+        "signature": "2350c09d0121a0b22c386a7bb8436d521b444c6b4b3e6ee37197d08a23f3b9dd"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/string_decoder.d.ts": {
-        "version": "17e157df6125098a1a34eb4d201ee4ac03bbe97e471ab5627bb2c40fce555948",
-        "signature": "17e157df6125098a1a34eb4d201ee4ac03bbe97e471ab5627bb2c40fce555948"
+        "version": "7e62aac2cc9c0710d772047ad89e8d7117f52592c791eb995ce1f865fedab432",
+        "signature": "7e62aac2cc9c0710d772047ad89e8d7117f52592c791eb995ce1f865fedab432"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/timers.d.ts": {
         "version": "b40652bf8ce4a18133b31349086523b219724dca8df3448c1a0742528e7ad5b9",
         "signature": "b40652bf8ce4a18133b31349086523b219724dca8df3448c1a0742528e7ad5b9"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/tls.d.ts": {
-        "version": "68f639766f4b9d5c832bbca1203955969a8686137a4a197285dd64519cc26e58",
-        "signature": "68f639766f4b9d5c832bbca1203955969a8686137a4a197285dd64519cc26e58"
+        "version": "af5f07deb33b2fb92ef67ea5ebb69670b81c74908b646e7cd4361a331d2a558a",
+        "signature": "af5f07deb33b2fb92ef67ea5ebb69670b81c74908b646e7cd4361a331d2a558a"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/trace_events.d.ts": {
         "version": "978aecd2e6bc2ac094e9a35eda98ff8586713857b3655e7c98ca5ed8f7d50662",
         "signature": "978aecd2e6bc2ac094e9a35eda98ff8586713857b3655e7c98ca5ed8f7d50662"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/tty.d.ts": {
-        "version": "49acf7313a000c386e140c9e898ddb5e1f508b9ac883c5c1481e7df685f2698e",
-        "signature": "49acf7313a000c386e140c9e898ddb5e1f508b9ac883c5c1481e7df685f2698e"
+        "version": "08261bfa763b8cd7fa74c06debf70ee22268c299a18e5dc7c48736bc352be007",
+        "signature": "08261bfa763b8cd7fa74c06debf70ee22268c299a18e5dc7c48736bc352be007"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/url.d.ts": {
-        "version": "431151f55411c3f27cf539b987a7d1de453188ed58e54bc946183d280d3444a2",
-        "signature": "431151f55411c3f27cf539b987a7d1de453188ed58e54bc946183d280d3444a2"
+        "version": "1e3da92862604b1f7a32265169f9aa712c4567742d42597704e04ae3e07019e7",
+        "signature": "1e3da92862604b1f7a32265169f9aa712c4567742d42597704e04ae3e07019e7"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts": {
-        "version": "766b7f1a0e67ed1106ae02583408d9e3a820201c4539f9bed8be8e4f07ee6e92",
-        "signature": "766b7f1a0e67ed1106ae02583408d9e3a820201c4539f9bed8be8e4f07ee6e92"
+        "version": "0f6382d5032e45eec50b8f6c1e18c77544bc4db2ef8f854d196b254ec16add12",
+        "signature": "0f6382d5032e45eec50b8f6c1e18c77544bc4db2ef8f854d196b254ec16add12"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/v8.d.ts": {
-        "version": "e880a08fbb0d9ee2f733f9183f4d1bdb75bc9e0e64060a8a1fc30540791fcded",
-        "signature": "e880a08fbb0d9ee2f733f9183f4d1bdb75bc9e0e64060a8a1fc30540791fcded"
+        "version": "e98d697adf809fc14dc88ed4e00e4f0e0e381ca23d6d9320cf01af87e801f725",
+        "signature": "e98d697adf809fc14dc88ed4e00e4f0e0e381ca23d6d9320cf01af87e801f725"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/vm.d.ts": {
-        "version": "f98df5ec124f441b465332271d0b083aeec815cd3c92d9249b9739e6318477a9",
-        "signature": "f98df5ec124f441b465332271d0b083aeec815cd3c92d9249b9739e6318477a9"
+        "version": "ad20b1311e55187f8eeefdd282a02dbc70e5ac0cf8ab4cabae99c142b32cc562",
+        "signature": "ad20b1311e55187f8eeefdd282a02dbc70e5ac0cf8ab4cabae99c142b32cc562"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/worker_threads.d.ts": {
-        "version": "e761c833140e3ab6f9deab37fe034154f3eb15547dce61395d9b0b1f130f3fa3",
-        "signature": "e761c833140e3ab6f9deab37fe034154f3eb15547dce61395d9b0b1f130f3fa3"
+        "version": "7780573ed8387aaadcc61d87f3d60d77dabf1e060da252dc72ab1d73401988bb",
+        "signature": "7780573ed8387aaadcc61d87f3d60d77dabf1e060da252dc72ab1d73401988bb"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/zlib.d.ts": {
-        "version": "58257a0147702ab415ed18164557a0feb9c5d1351792ea293a876e6b7ed0c559",
-        "signature": "58257a0147702ab415ed18164557a0feb9c5d1351792ea293a876e6b7ed0c559"
+        "version": "2ffd50644d73fc1fa59c69d48859b6c843d3604609d7353725b6d2b001f05a2b",
+        "signature": "2ffd50644d73fc1fa59c69d48859b6c843d3604609d7353725b6d2b001f05a2b"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/base.d.ts": {
         "version": "6622f76993bdfeaacb947ba7c4cf26f2e5c5194194d02d792c3cba4174cd8fce",
@@ -722,8 +722,8 @@
         "signature": "4f54f0a9dd3b644c99ec32b32f8804d5978bc854799b228ae9c467bf3c84c64c"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/globals.d.ts": {
-        "version": "ce6b191c382ee19f23678b8c364484627bcf424e8f408357a2f5530fb8d52a45",
-        "signature": "ce6b191c382ee19f23678b8c364484627bcf424e8f408357a2f5530fb8d52a45"
+        "version": "4926e99d2ad39c0bbd36f2d37cc8f52756bc7a5661ad7b12815df871a4b07ba1",
+        "signature": "4926e99d2ad39c0bbd36f2d37cc8f52756bc7a5661ad7b12815df871a4b07ba1"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/index.d.ts": {
         "version": "765fc34423b93c2ab763670d8d11d99e5f47387c13c161d6f1640dd6d91b7d1c",
@@ -738,8 +738,8 @@
         "signature": "c0c4730cd2930521c6dd7707b9f12c238739026573300e0dacfd79aa3d02d1e5"
       },
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/microservices/microservice-configuration.interface.d.ts": {
-        "version": "a42cfc86419baf0c81e294655995c1d707bfcc6334cb807c8d01e011b414924f",
-        "signature": "a42cfc86419baf0c81e294655995c1d707bfcc6334cb807c8d01e011b414924f"
+        "version": "3d8c8cdcd9959249a95c201ba90ec690d2155c8b1d332bbea574a3d99efeba91",
+        "signature": "3d8c8cdcd9959249a95c201ba90ec690d2155c8b1d332bbea574a3d99efeba91"
       },
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/websockets/web-socket-adapter.interface.d.ts": {
         "version": "b75aa590b103f8491e1c943f9bc4989df55323d7e68fba393d3de11f4aae6bb8",
@@ -858,8 +858,8 @@
         "signature": "e1b8b6744c4a127f5d8def48c5a7ec769ae56e764fad9655b334c8123a477eb1"
       },
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/decorators/modules/module.decorator.d.ts": {
-        "version": "ab490300e9109e6813befb607d142991f38abc561bd76b1b03d4602cf9749b7b",
-        "signature": "ab490300e9109e6813befb607d142991f38abc561bd76b1b03d4602cf9749b7b"
+        "version": "ee51957c2d1ec5322c8dc9a0a268c1f1df90db92096888c2a693dbc07090e2f5",
+        "signature": "ee51957c2d1ec5322c8dc9a0a268c1f1df90db92096888c2a693dbc07090e2f5"
       },
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/decorators/modules/single-scope.decorator.d.ts": {
         "version": "a29227b1672c3fc71c563a063b382ad9abd69868d44cea7470b1724d693de10f",
@@ -906,8 +906,8 @@
         "signature": "118ea3f4e7b9c12e92551be0766706f57a411b4f18a1b4762cfde3cd6d4f0a96"
       },
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/exceptions/http.exception.d.ts": {
-        "version": "5d91e9620160414add2d650639692c472a80fd2404279a6b81b71acedec65970",
-        "signature": "5d91e9620160414add2d650639692c472a80fd2404279a6b81b71acedec65970"
+        "version": "ee2fe8f0de753a74f7ebd111994b1ea95e351acd9e345efc5a56193ca1d470e4",
+        "signature": "ee2fe8f0de753a74f7ebd111994b1ea95e351acd9e345efc5a56193ca1d470e4"
       },
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/exceptions/bad-request.exception.d.ts": {
         "version": "c572745370bf43543fa454f7573e88b1ab96e6cdc8f14375ce7b39c3b1f6250b",
@@ -1070,272 +1070,16 @@
         "signature": "d8f4cb0109c1b399d657807fd6af504d74a9300325e0fc915abdbf658b464a97"
       },
       "c:/users/anuitex/desktop/server/src/app.controller.ts": {
-        "version": "4ca7a31c6a72c137a7de559ea60a51588312a510edeb193c6d29ff3948e94ab1",
+        "version": "3469c5aa62e1ba5b183d9bb9d40193e91aa761fc5734d332650b0bd49c346266",
         "signature": "3293b0d1d6a7f902316e164fcf36ae099f1bbb0224484586eaab30d9dea78d32"
       },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/common/mongoose.decorators.d.ts": {
-        "version": "120fe6ff3f553b3d2a0e065b6fea421698be40a802273652871273338085873c",
-        "signature": "120fe6ff3f553b3d2a0e065b6fea421698be40a802273652871273338085873c"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/common/mongoose.utils.d.ts": {
-        "version": "94f798f2ee81af6b0767403ef94fbc6d7d7a5e2dc0953a2ea3de98f2cab587c2",
-        "signature": "94f798f2ee81af6b0767403ef94fbc6d7d7a5e2dc0953a2ea3de98f2cab587c2"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/common/index.d.ts": {
-        "version": "23dbd21c1fe8ee7c2e1b260de8610d1ce67a785cd40d349520306c8d876385c4",
-        "signature": "23dbd21c1fe8ee7c2e1b260de8610d1ce67a785cd40d349520306c8d876385c4"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/interfaces/mongoose-options.interface.d.ts": {
-        "version": "bea1e44197be52c026ebffdc129afc6cac229b9ec6a86ab3ebdc07bec77ebe23",
-        "signature": "bea1e44197be52c026ebffdc129afc6cac229b9ec6a86ab3ebdc07bec77ebe23"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/interfaces/index.d.ts": {
-        "version": "69c9dd7f908cc12704299ad7ab4b667692800279d4df885ec9793f0317234b57",
-        "signature": "69c9dd7f908cc12704299ad7ab4b667692800279d4df885ec9793f0317234b57"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/mongoose.module.d.ts": {
-        "version": "729bc6ae2f8b0a4f973660582b6fca33247e82733ea44162dfc98cfae6f81059",
-        "signature": "729bc6ae2f8b0a4f973660582b6fca33247e82733ea44162dfc98cfae6f81059"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/index.d.ts": {
-        "version": "1566c3bf94fd979425350fd0d2dd2e814c9399c7217f58186467c548f7711e58",
-        "signature": "1566c3bf94fd979425350fd0d2dd2e814c9399c7217f58186467c548f7711e58"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/index.d.ts": {
-        "version": "8f1241f5d9f0d3d72117768b3c974e462840fbd85026fb66685078945404cf2f",
-        "signature": "8f1241f5d9f0d3d72117768b3c974e462840fbd85026fb66685078945404cf2f"
-      },
-      "c:/users/anuitex/desktop/server/src/products/dto/create-product.dto.ts": {
-        "version": "ffe74f917183772b2343b66ea1f88aeb8f0b39ea96abcdf488534eae8262493d",
-        "signature": "c907566e71e5a01c9823f2c25ee12631eb0250dd9c4dd84bec2b981f2cfdbc2f"
-      },
-      "c:/users/anuitex/desktop/server/src/products/interfaces/product.interface.ts": {
-        "version": "027bd4848b0835bb5e485c60801650659f8d0f86a7070ccc081107a8fe025f5e",
-        "signature": "6f400c3bae595d5a4777226a03b13d51c7bbd04b1126e1bd70225c554c94ca79"
-      },
-      "c:/users/anuitex/desktop/server/src/products/products.service.ts": {
-        "version": "947d576a0320f740366ec365efd19e51a3785de280d59e65eaa4a8df22e62f48",
-        "signature": "32aecfeffdc27cf8853c3ffe49addf55493cd8fe64fadd4103ff5472c1ce97ad"
+      "c:/users/anuitex/desktop/server/src/app.module.ts": {
+        "version": "21366ae45455c42843d8032071a2805cf96f8414b4690ff4ee5e678f5790583c",
+        "signature": "9fc7f7b6ad854404973b8cba8e6d883f758237991968e9a3965d716d46f1da88"
       },
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/adapters/http-adapter.d.ts": {
         "version": "285fd4018f9de87c5972beb9133971c99212458bcfc317f1b3851adcc86d84b7",
         "signature": "285fd4018f9de87c5972beb9133971c99212458bcfc317f1b3851adcc86d84b7"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/interfaces/serve-static-options.interface.d.ts": {
-        "version": "cc0e17447fe6b14068adbde843ebcb7d72ddf0a9bfdd9a9666059fb92b10f69b",
-        "signature": "cc0e17447fe6b14068adbde843ebcb7d72ddf0a9bfdd9a9666059fb92b10f69b"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/adapters/express-adapter.d.ts": {
-        "version": "ae225efad3e7c1f386142d5b92be14ca9da19b4472c79a4c419343d42c7e9ac9",
-        "signature": "ae225efad3e7c1f386142d5b92be14ca9da19b4472c79a4c419343d42c7e9ac9"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/adapters/index.d.ts": {
-        "version": "86bf2bfe29d0bc3fbc68e64c25ea6eab9bcb3c518ae941012ed75b1e87d391ae",
-        "signature": "86bf2bfe29d0bc3fbc68e64c25ea6eab9bcb3c518ae941012ed75b1e87d391ae"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/interfaces/nest-express-application.interface.d.ts": {
-        "version": "ac7c3185bc0acd10d01e47833c81b896c80c724e5c146f657791bc4748cc5cdc",
-        "signature": "ac7c3185bc0acd10d01e47833c81b896c80c724e5c146f657791bc4748cc5cdc"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/interfaces/index.d.ts": {
-        "version": "68a330d1246e3f0ed055b931ab6f4f9505d7c2db0560515f68c722c06541dc0d",
-        "signature": "68a330d1246e3f0ed055b931ab6f4f9505d7c2db0560515f68c722c06541dc0d"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interfaces/multer-options.interface.d.ts": {
-        "version": "6e9eaec149fef058b2f030d1ea1f64497606de98ee9e66f1d2373be36bdaea2b",
-        "signature": "6e9eaec149fef058b2f030d1ea1f64497606de98ee9e66f1d2373be36bdaea2b"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interceptors/file-fields.interceptor.d.ts": {
-        "version": "6a013828e3333e21fde3a4d1c7da0c41e8ce0218a98ad8e71025c2d437a2458b",
-        "signature": "6a013828e3333e21fde3a4d1c7da0c41e8ce0218a98ad8e71025c2d437a2458b"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interceptors/file.interceptor.d.ts": {
-        "version": "fc1a967ceb559957a8fd153d364596d7c906440c401e9a1f0ef9cda62a92a937",
-        "signature": "fc1a967ceb559957a8fd153d364596d7c906440c401e9a1f0ef9cda62a92a937"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interceptors/files.interceptor.d.ts": {
-        "version": "fd09f594933708040bbab2ad98fdfd1f076209ff0d514cbc8ab50bc39f462619",
-        "signature": "fd09f594933708040bbab2ad98fdfd1f076209ff0d514cbc8ab50bc39f462619"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interceptors/index.d.ts": {
-        "version": "fa445ead2f213f9631ba95a4305385b2d89ba7ec482c8d2660dbe44bd8863d02",
-        "signature": "fa445ead2f213f9631ba95a4305385b2d89ba7ec482c8d2660dbe44bd8863d02"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interfaces/files-upload-module.interface.d.ts": {
-        "version": "4741b150be6852903a560f28e27c51c8b17e081c2b172117f1e2c2331520eb4a",
-        "signature": "4741b150be6852903a560f28e27c51c8b17e081c2b172117f1e2c2331520eb4a"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interfaces/index.d.ts": {
-        "version": "d8c1697db4bb3234ff3f8481545284992f1516bc712421b81ee3ef3f226ae112",
-        "signature": "d8c1697db4bb3234ff3f8481545284992f1516bc712421b81ee3ef3f226ae112"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/multer.module.d.ts": {
-        "version": "549adfb8fb51148eeb2c0659941b3a508988ee0b00f325fbaae7e96bc4b3e4c9",
-        "signature": "549adfb8fb51148eeb2c0659941b3a508988ee0b00f325fbaae7e96bc4b3e4c9"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/index.d.ts": {
-        "version": "e2c3c3ca3818d610599392a9431e60ec021c5d59262ecd616538484990f6e331",
-        "signature": "e2c3c3ca3818d610599392a9431e60ec021c5d59262ecd616538484990f6e331"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/index.d.ts": {
-        "version": "e3cd60be3c4f95c43420be67eaa21637585b7c1a8129f9b39983bbd294f9513c",
-        "signature": "e3cd60be3c4f95c43420be67eaa21637585b7c1a8129f9b39983bbd294f9513c"
-      },
-      "c:/users/anuitex/desktop/server/src/products/products.controller.ts": {
-        "version": "65d15e97061d7fddd221055ece8c478bc2a5d9c8b3740c79ea1249db97975de4",
-        "signature": "39a672a555b976ea48c2f766bba6d01ed622d2aad68c8aa12979575a397f3463"
-      },
-      "c:/users/anuitex/desktop/server/src/products/schemas/product.schema.ts": {
-        "version": "a94b27cff90d0918bbbc3f20c493c304c52030c54d02179763467009f9faf2dd",
-        "signature": "18e293c36319f0ec31e78657aec366fb6d74722ebd25e561713e4618a2614cdc"
-      },
-      "c:/users/anuitex/desktop/server/src/products/products.module.ts": {
-        "version": "eabe21c36bc833f8cf4a9de88fe11e5b74d1396063f42530294011e4c8cd5c64",
-        "signature": "869dc75f2a364405dd7250ffa7f55b4facfc75218498a27b14ca830cdfce65f5"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/abstract.strategy.d.ts": {
-        "version": "ba63131c5e91f797736444933af16ffa42f9f8c150d859ec65f568f037a416ea",
-        "signature": "ba63131c5e91f797736444933af16ffa42f9f8c150d859ec65f568f037a416ea"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/interfaces/auth-module.options.d.ts": {
-        "version": "142e2e1abd8603dfdeaa1c88d73003a7912aa949b3a19234fa91f729ebfa2fcc",
-        "signature": "142e2e1abd8603dfdeaa1c88d73003a7912aa949b3a19234fa91f729ebfa2fcc"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/interfaces/type.interface.d.ts": {
-        "version": "340a45cd77b41d8a6deda248167fa23d3dc67ec798d411bd282f7b3d555b1695",
-        "signature": "340a45cd77b41d8a6deda248167fa23d3dc67ec798d411bd282f7b3d555b1695"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/interfaces/index.d.ts": {
-        "version": "0e9aa853b5eb2ca09e0e3e3eb94cbd1d5fb3d682ab69817d4d11fe225953fc57",
-        "signature": "0e9aa853b5eb2ca09e0e3e3eb94cbd1d5fb3d682ab69817d4d11fe225953fc57"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/auth.guard.d.ts": {
-        "version": "69b768acf41ee0819f71ef899c85a4aa4c2ccf74996358bfaa6d15f26b0e8383",
-        "signature": "69b768acf41ee0819f71ef899c85a4aa4c2ccf74996358bfaa6d15f26b0e8383"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/passport.module.d.ts": {
-        "version": "793c353144f16601da994fa4e62c09b7525836ce999c44f69c28929072ca206a",
-        "signature": "793c353144f16601da994fa4e62c09b7525836ce999c44f69c28929072ca206a"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/passport/passport.serializer.d.ts": {
-        "version": "632ab81ae917eb918916505489542cf5ee35fd3870c7e1f013238d2887183ca0",
-        "signature": "632ab81ae917eb918916505489542cf5ee35fd3870c7e1f013238d2887183ca0"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/passport/passport.strategy.d.ts": {
-        "version": "3ba3210ac36ccb9768d8e18a7a2b00165992d8f0a389ec6f01cc0a3f73422f39",
-        "signature": "3ba3210ac36ccb9768d8e18a7a2b00165992d8f0a389ec6f01cc0a3f73422f39"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/index.d.ts": {
-        "version": "585bc61f439c027640754dd26e480afa202f33e51db41ee283311a59c12c62e7",
-        "signature": "585bc61f439c027640754dd26e480afa202f33e51db41ee283311a59c12c62e7"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/index.d.ts": {
-        "version": "a2b176f66f0b708241265fb3b417597c9c9d21912bbb7f5cc00d99af551c2078",
-        "signature": "a2b176f66f0b708241265fb3b417597c9c9d21912bbb7f5cc00d99af551c2078"
-      },
-      "c:/users/anuitex/desktop/server/src/users/interfaces/user.interface.ts": {
-        "version": "d759248ca7fc6f928c76c718120df93ae3a9d1429c7020dcfbea48d30fc81a4b",
-        "signature": "8b41cfafd326dde914fa633ef69bbb33ccf0065701c18201eac02c18af279062"
-      },
-      "c:/users/anuitex/desktop/server/src/users/dto/create-user.dto.ts": {
-        "version": "ef35ba7ced1c37a44eba3bfa3281ba8f708eba936607328e0a6fb6ce679d5ffc",
-        "signature": "5db83b6fd5aab38f9ef780da66f265f6dd3bea0113a3d8d58931b8c88e909e70"
-      },
-      "c:/users/anuitex/desktop/server/src/users/users.service.ts": {
-        "version": "e05088c15fc24b3b620739fc0839d71c51d8e97b0ee31722eb373749c0fb200c",
-        "signature": "f95ad9128e5b8e7c09abe078b674ed98717741663ea48bfbaef725bb2628c901"
-      },
-      "c:/users/anuitex/desktop/server/src/users/users.controller.ts": {
-        "version": "81f4bab72d6e6823c0d09293f688b6e63512f941a10dd321b43e6342ea1d3070",
-        "signature": "4e0e885259460ccf764cb2b5a30db258f8c998588cb9dd4826c60da1bc987410"
-      },
-      "c:/users/anuitex/desktop/server/src/users/schemas/user.schema.ts": {
-        "version": "c2d7b6b9d76690234d8190258ba4b467c722d5ff5d359751a856b37359d06e3b",
-        "signature": "9368bf8d6c6ae153c57a9244bb5531f30a99c7961d2e19cbf1522795a0118c97"
-      },
-      "c:/users/anuitex/desktop/server/src/users/users.module.ts": {
-        "version": "0fece6d53cb87e994f1d3421aa289bae72e0088d922007e2cad92af1427cf0d7",
-        "signature": "12dec6c99bd8d11167fa91a31e737abbbf8c9cc789c151a25a9a1d13f328175c"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@types/jsonwebtoken/index.d.ts": {
-        "version": "3ee1c4479498ce568cf7789174c181a68a7f7f16f7b338132ded0daf24a8a971",
-        "signature": "3ee1c4479498ce568cf7789174c181a68a7f7f16f7b338132ded0daf24a8a971"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/interfaces/jwt-module-options.interface.d.ts": {
-        "version": "b0d13187d80ad7ba46537913f1458c4bd3778ffde916a4673c2df5f479c8be15",
-        "signature": "b0d13187d80ad7ba46537913f1458c4bd3778ffde916a4673c2df5f479c8be15"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/interfaces/index.d.ts": {
-        "version": "7c14e702387296711c1a829bc95052ff02f533d4aa27d53cc0186c795094a3a9",
-        "signature": "7c14e702387296711c1a829bc95052ff02f533d4aa27d53cc0186c795094a3a9"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/jwt.module.d.ts": {
-        "version": "579f8828da42ae02db6915a0223d23b0da07157ff484fecdbf8a96fffa0fa4df",
-        "signature": "579f8828da42ae02db6915a0223d23b0da07157ff484fecdbf8a96fffa0fa4df"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/jwt.service.d.ts": {
-        "version": "1695b64f0130b6aef2c1eb7cecc1d9339bf2181af887ce5ccc6c3075115d6355",
-        "signature": "1695b64f0130b6aef2c1eb7cecc1d9339bf2181af887ce5ccc6c3075115d6355"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/index.d.ts": {
-        "version": "a13aac535101a942283e3d00bce50f483bfa9bed6e1f8dfda33a3bb072498776",
-        "signature": "a13aac535101a942283e3d00bce50f483bfa9bed6e1f8dfda33a3bb072498776"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/index.d.ts": {
-        "version": "a2b176f66f0b708241265fb3b417597c9c9d21912bbb7f5cc00d99af551c2078",
-        "signature": "a2b176f66f0b708241265fb3b417597c9c9d21912bbb7f5cc00d99af551c2078"
-      },
-      "c:/users/anuitex/desktop/server/src/products/dto/login-user.dto.ts": {
-        "version": "efd1e068d70414c1832c7b243e707a49860e506d53a77f4d980cf9a6dd23209c",
-        "signature": "6ece4fc74c7d42cd04d4d1962e9fbbe69d83b7ded708707710c2588e120374f7"
-      },
-      "c:/users/anuitex/desktop/server/src/auth/interfaces/jwt-payload.interface.ts": {
-        "version": "96fda16913b1be9e9898bdb896e6e7e2c793b17d12b9445eb17a03c930bc7daf",
-        "signature": "c240d4cac48a4fe0a23b3a1d4fa97aa941f63474ad03f5fe0178e759aeac48ae"
-      },
-      "c:/users/anuitex/desktop/server/src/auth/auth.service.ts": {
-        "version": "18bb6f503f492c7beda7b5233eb3c4998e44e77f24e5be20d224bda536199412",
-        "signature": "5ff2e10ab63577744de0357781e4d9bcbe40bd8861c6691282908c43e9c6c3f3"
-      },
-      "c:/users/anuitex/desktop/server/src/auth/auth.controller.ts": {
-        "version": "8123993a6750dee469a494ca5a66f4e627090a122d9e988b4d628a52fabf2378",
-        "signature": "aff316bd4c92580d33cde810ed97cc7c5eac6ceb58fb1bad7661f99146102eaf"
-      },
-      "c:/users/anuitex/desktop/server/src/auth/strategies/jwt.strategy.ts": {
-        "version": "7661ebc98b9d24dd40cd0890d44775a3f4f18d8a7308d412a3cc8bd7d52dcf9a",
-        "signature": "a8b99769cbc009d0663e4cebae472e94bd8013b6c37165698f265592b46571ee"
-      },
-      "c:/users/anuitex/desktop/server/src/auth/auth.module.ts": {
-        "version": "d63815fc1f77c00382b2cddf7900e3e9e445ccada95a1fa60c6e205ceed3e5d3",
-        "signature": "2e5d258cf85349b02b015c3f1b8873c152d182c3819a7ccc3aff16fc3037a5fc"
-      },
-      "c:/users/anuitex/desktop/server/src/orders/dto/create-order.dto.ts": {
-        "version": "8e1834b67dddf9e0c886c4dd8caec3af25fd488daacdcf8cd388ca028433e126",
-        "signature": "9e8d681834e11059e0b9abe6c4a058aa9728951cbc563877a6eac714ab899b92"
-      },
-      "c:/users/anuitex/desktop/server/src/orders/interfaces/order.interface.ts": {
-        "version": "026bcd6d9dc4effab22cd6532b9cc217ad2d6b1008bca152dc95c838ea1a9e6f",
-        "signature": "c1c4f46c5ac99ac8e1905cec8b4611e0becd6ab5a3a67f2b1a5595000adfa0a1"
-      },
-      "c:/users/anuitex/desktop/server/src/orders/orders.service.ts": {
-        "version": "4c4b68afae4c385fc0edf5f1d7528e4b1579f6617e6aa239759c5779859adf01",
-        "signature": "c5b4a9d1c41234af876e141fd8ec59457fd4a58d1562bbe8f8ba1d3f28d57cc1"
-      },
-      "c:/users/anuitex/desktop/server/src/orders/orders.controller.ts": {
-        "version": "798bdc968688ed67691dce8a16dadda67508cd8c11322e40d7ce8b7765a4b7aa",
-        "signature": "2a200ed2e335cb1bef430368df6e8e480a885d359d6cec0e2cf99fc2c029590f"
-      },
-      "c:/users/anuitex/desktop/server/src/orders/schemas/order.schema.ts": {
-        "version": "e373ef96449bace304b47cb39007c4b6d0b66f099852c4089e3120998b0234fb",
-        "signature": "98f3b8ca0d89a1c2e8904e268264785978afa3c381ba89b695d1df8b974943e7"
-      },
-      "c:/users/anuitex/desktop/server/src/orders/orders.module.ts": {
-        "version": "a63f95083c2458decd143d635fb546e8fce3040ab42c75abf987d903f3237227",
-        "signature": "f2a098761374558eef78bc1c94d34464e78aba0b8a2a2b58cb009a7e88a54002"
-      },
-      "c:/users/anuitex/desktop/server/src/app.module.ts": {
-        "version": "18a28c7557b55404b6092c49a1d7e3cd9180330c80bb4e4810547812090f4cc9",
-        "signature": "9fc7f7b6ad854404973b8cba8e6d883f758237991968e9a3965d716d46f1da88"
       },
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/adapters/index.d.ts": {
         "version": "8b0b6a4c032a56d5651f7dd02ba3f05fbfe4131c4095093633cda3cae0991972",
@@ -1361,29 +1105,25 @@
         "version": "942ab34f62ac3f3d20014615b6442b6dc51815e30a878ebc390dd70e0dec63bf",
         "signature": "942ab34f62ac3f3d20014615b6442b6dc51815e30a878ebc390dd70e0dec63bf"
       },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/configuration-provider.interface.d.ts": {
-        "version": "3ffe90482d09b877347cefaef5a0fcbde2d2fe4a0455b1ab106d14472e96c38f",
-        "signature": "3ffe90482d09b877347cefaef5a0fcbde2d2fe4a0455b1ab106d14472e96c38f"
-      },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/application-config.d.ts": {
-        "version": "6d8e16dca73cfcfa80a0a8b3148ddeba14415e7b191cd66db71e96251532d6fa",
-        "signature": "6d8e16dca73cfcfa80a0a8b3148ddeba14415e7b191cd66db71e96251532d6fa"
+      "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/injector/module.d.ts": {
+        "version": "efe959436af8b488c2de4c75a8ffd180fd7292bf170d5516520a025fa697e1c2",
+        "signature": "efe959436af8b488c2de4c75a8ffd180fd7292bf170d5516520a025fa697e1c2"
       },
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/injector/instance-wrapper.d.ts": {
         "version": "2a652b8ef86dc498e84cc9dc69247a9610567a09c52cb61e2a8f70e3cc156ee7",
         "signature": "2a652b8ef86dc498e84cc9dc69247a9610567a09c52cb61e2a8f70e3cc156ee7"
       },
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/injector/module.d.ts": {
-        "version": "4a0eeec1a29e43d25f4bd39979afc734a8c5abf5d4741c293308d8650320d309",
-        "signature": "4a0eeec1a29e43d25f4bd39979afc734a8c5abf5d4741c293308d8650320d309"
+      "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/application-config.d.ts": {
+        "version": "620eaa2096c69dff36875f086e8a63c326fccda643360b7d7cd580b403753488",
+        "signature": "620eaa2096c69dff36875f086e8a63c326fccda643360b7d7cd580b403753488"
       },
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/injector/modules-container.d.ts": {
         "version": "c1c60dd235d2ce756231cec4bfec763980de6913efcfc3fb459938fee9ea26a5",
         "signature": "c1c60dd235d2ce756231cec4bfec763980de6913efcfc3fb459938fee9ea26a5"
       },
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/injector/container.d.ts": {
-        "version": "a5acdc6f216b38316600782ddfff17178a20e8fc45377e71b00aa1bd45b4911e",
-        "signature": "a5acdc6f216b38316600782ddfff17178a20e8fc45377e71b00aa1bd45b4911e"
+        "version": "9b6efda0b73b22faba66bc78363736dd7bb5602e05f8c16ef69532ac2ef10bcb",
+        "signature": "9b6efda0b73b22faba66bc78363736dd7bb5602e05f8c16ef69532ac2ef10bcb"
       },
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/injector/module-ref.d.ts": {
         "version": "a54f4e830c537bd7c67b649c54a78931687628a1d9130341e41af0fc6fe6bc45",
@@ -1442,32 +1182,44 @@
         "signature": "2e252235037a2cd8feebfbf74aa460f783e5d423895d13f29a934d7655a1f8be"
       },
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/index.d.ts": {
-        "version": "19e9aee9dcbcb693ecc8c72c4a0022162ffccfe6c79dc0cd643cd40e0f2355db",
-        "signature": "19e9aee9dcbcb693ecc8c72c4a0022162ffccfe6c79dc0cd643cd40e0f2355db"
+        "version": "2608cfd623840916e664e68c3dc5eb4347ccae822f808d899bf00e73cbab2bfe",
+        "signature": "2608cfd623840916e664e68c3dc5eb4347ccae822f808d899bf00e73cbab2bfe"
       },
       "c:/users/anuitex/desktop/server/src/main.ts": {
-        "version": "ab32a6218ea343281203985b28574bc0ea54b51364175cf88a9439b42b31a5a9",
+        "version": "d637964cf16465853064b66ec1dd5a0b7754fdd238fb86797e3a9dc880e2c8e0",
         "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6"
       },
-      "c:/users/anuitex/desktop/server/src/auth/dto/create-user.dto.ts": {
-        "version": "69cc394d9f4e082b624c6bf120e2708c711fc85c25aa98b187cb1d842a059532",
-        "signature": "56681498768bc697de288fb8c89c9c389a47edfba1321e18fae3ec7a6557cb7e"
+      "c:/users/anuitex/desktop/server/node_modules/@babel/types/lib/index.d.ts": {
+        "version": "bc12492fa90cd2ad3f73c10efa597503dbf59ebac0e3c9728cc10adaad6b0b87",
+        "signature": "bc12492fa90cd2ad3f73c10efa597503dbf59ebac0e3c9728cc10adaad6b0b87"
       },
-      "c:/users/anuitex/desktop/server/src/auth/interfaces/user.interface.ts": {
-        "version": "5c00c5b6182a9342824780680f89aba070ee08267c583559169520174d12609e",
-        "signature": "a7b65a6da03d836188d06ce560c2efac6b52b6b0d599af50cf180ea4b1319cdd"
+      "c:/users/anuitex/desktop/server/node_modules/@types/babel__generator/index.d.ts": {
+        "version": "19fb2161edf60fbe73ee3650c1cee889df0525ed852eff2d5fa6e5480c132ae3",
+        "signature": "19fb2161edf60fbe73ee3650c1cee889df0525ed852eff2d5fa6e5480c132ae3"
       },
-      "c:/users/anuitex/desktop/server/src/auth/schemas/user.schema.ts": {
-        "version": "0c8559556fe15768cdf5dfbd32ca9581957206cec0dfb1ab0b8e568f483b6b06",
-        "signature": "9368bf8d6c6ae153c57a9244bb5531f30a99c7961d2e19cbf1522795a0118c97"
+      "c:/users/anuitex/desktop/server/node_modules/@types/babel__traverse/index.d.ts": {
+        "version": "44d81327b8fbb2d7ca0701f5b7bb73e48036eb99a87356acf95f19ed96e907aa",
+        "signature": "44d81327b8fbb2d7ca0701f5b7bb73e48036eb99a87356acf95f19ed96e907aa"
+      },
+      "c:/users/anuitex/desktop/server/node_modules/@babel/parser/typings/babel-parser.d.ts": {
+        "version": "67fb81fcd13edc5410665fa72892dd0878654b54946e8b0f10af5adc234bfe8f",
+        "signature": "67fb81fcd13edc5410665fa72892dd0878654b54946e8b0f10af5adc234bfe8f"
+      },
+      "c:/users/anuitex/desktop/server/node_modules/@types/babel__template/index.d.ts": {
+        "version": "3e0a34f7207431d967dc32d593d1cda0c23975e9484bc8895b39d96ffca4a0d8",
+        "signature": "3e0a34f7207431d967dc32d593d1cda0c23975e9484bc8895b39d96ffca4a0d8"
+      },
+      "c:/users/anuitex/desktop/server/node_modules/@types/babel__core/index.d.ts": {
+        "version": "8f279d393b3572c5c0a8428d46d00281c38a5ef52dc9dd513fc861c31a5d6420",
+        "signature": "8f279d393b3572c5c0a8428d46d00281c38a5ef52dc9dd513fc861c31a5d6420"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/connect/index.d.ts": {
         "version": "c3be42b83b5f57ae2f65280fa395f6d31f61304ac1a29b7b406b6a0e71da8c82",
         "signature": "c3be42b83b5f57ae2f65280fa395f6d31f61304ac1a29b7b406b6a0e71da8c82"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/body-parser/index.d.ts": {
-        "version": "1b7919dbb6b43ff272f38f6f6522fb9f4e9e854356b2932a36aa4674f4a2fcf2",
-        "signature": "1b7919dbb6b43ff272f38f6f6522fb9f4e9e854356b2932a36aa4674f4a2fcf2"
+        "version": "599abfa56230d73afc30a3bde749c2efd90acb58301b446835d5e235b35e2768",
+        "signature": "599abfa56230d73afc30a3bde749c2efd90acb58301b446835d5e235b35e2768"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/cookiejar/index.d.ts": {
         "version": "16b7fb094ffaa5d270f934e7406e8baee2f8245cfabf6dcc20f693389f005f56",
@@ -1478,36 +1230,72 @@
         "signature": "4e88b833be14c7f384e0dcd57bb30acd799e8e34d212635d693e41a75a71164b"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/express-serve-static-core/index.d.ts": {
-        "version": "0e844fd1a3d13a837b300785b632ceb2cdced5797e189183ece36a0785a453e5",
-        "signature": "0e844fd1a3d13a837b300785b632ceb2cdced5797e189183ece36a0785a453e5"
+        "version": "d73f61d755e6f17b9dc315cbd8e6522a47c2153a07b67fd8295ef48b40ad6344",
+        "signature": "d73f61d755e6f17b9dc315cbd8e6522a47c2153a07b67fd8295ef48b40ad6344"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/mime/index.d.ts": {
         "version": "be27a64e821a3e5af838650e4aa25805c60f057d0c37a9762c378d19d364b3e6",
         "signature": "be27a64e821a3e5af838650e4aa25805c60f057d0c37a9762c378d19d364b3e6"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/serve-static/index.d.ts": {
-        "version": "b27dd918d8c3f10270cadea529c69e3a9b37ce59db0852945a39068cc5c10fff",
-        "signature": "b27dd918d8c3f10270cadea529c69e3a9b37ce59db0852945a39068cc5c10fff"
+        "version": "cdbae5083ef8f786069519405ca1f1e2ce72b9efebdf5e1931584fba747f3bc0",
+        "signature": "cdbae5083ef8f786069519405ca1f1e2ce72b9efebdf5e1931584fba747f3bc0"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/express/index.d.ts": {
-        "version": "a6742e25ac12860727c22a379707e050a126c48c4dd98ddd795a3a33dd0a63c7",
-        "signature": "a6742e25ac12860727c22a379707e050a126c48c4dd98ddd795a3a33dd0a63c7"
+        "version": "1f92cdebe2b1e0e6309ccdb6e8700cfd2d3e7131c7842f91b38ed1e4ff2a7090",
+        "signature": "1f92cdebe2b1e0e6309ccdb6e8700cfd2d3e7131c7842f91b38ed1e4ff2a7090"
+      },
+      "c:/users/anuitex/desktop/server/node_modules/@types/istanbul-lib-coverage/index.d.ts": {
+        "version": "9e951ec338c4232d611552a1be7b4ecec79a8c2307a893ce39701316fe2374bd",
+        "signature": "9e951ec338c4232d611552a1be7b4ecec79a8c2307a893ce39701316fe2374bd"
+      },
+      "c:/users/anuitex/desktop/server/node_modules/@types/istanbul-lib-report/index.d.ts": {
+        "version": "70c61ff569aabdf2b36220da6c06caaa27e45cd7acac81a1966ab4ee2eadc4f2",
+        "signature": "70c61ff569aabdf2b36220da6c06caaa27e45cd7acac81a1966ab4ee2eadc4f2"
+      },
+      "c:/users/anuitex/desktop/server/node_modules/@types/istanbul-reports/index.d.ts": {
+        "version": "93b59bc67329d5add033e3198583c39aa939cef891e6a2b763e0bea2b514ea9b",
+        "signature": "93b59bc67329d5add033e3198583c39aa939cef891e6a2b763e0bea2b514ea9b"
+      },
+      "c:/users/anuitex/desktop/server/node_modules/@types/jest-diff/index.d.ts": {
+        "version": "6ecb326999da47034eff85653423767152858fbb7acf0433f7603c9abf1e3f06",
+        "signature": "6ecb326999da47034eff85653423767152858fbb7acf0433f7603c9abf1e3f06"
+      },
+      "c:/users/anuitex/desktop/server/node_modules/jest-diff/build/types.d.ts": {
+        "version": "71ba0678a3c647f5c0706ae975c031ace0d464e60f9ce56eaa7f1678d065aab7",
+        "signature": "71ba0678a3c647f5c0706ae975c031ace0d464e60f9ce56eaa7f1678d065aab7"
+      },
+      "c:/users/anuitex/desktop/server/node_modules/jest-diff/build/index.d.ts": {
+        "version": "162c6f2951bd80ae6e16679378f382200b26bba9de8f255af3a2895fbfa670b4",
+        "signature": "162c6f2951bd80ae6e16679378f382200b26bba9de8f255af3a2895fbfa670b4"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/jest/index.d.ts": {
-        "version": "37dbdee3bb13bc254e9d75bbb75569e807369868e5cbd89ce72aa77fb22fcb75",
-        "signature": "37dbdee3bb13bc254e9d75bbb75569e807369868e5cbd89ce72aa77fb22fcb75"
+        "version": "9dd180752ee664a74a525a05194afdd787295e56634b8adbc8525d7c0af64e96",
+        "signature": "9dd180752ee664a74a525a05194afdd787295e56634b8adbc8525d7c0af64e96"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/json5/index.d.ts": {
         "version": "96d14f21b7652903852eef49379d04dbda28c16ed36468f8c9fa08f7c14c9538",
         "signature": "96d14f21b7652903852eef49379d04dbda28c16ed36468f8c9fa08f7c14c9538"
       },
+      "c:/users/anuitex/desktop/server/node_modules/@types/stack-utils/index.d.ts": {
+        "version": "41422586881bcd739b4e62d9b91cd29909f8572aa3e3cdf316b7c50f14708d49",
+        "signature": "41422586881bcd739b4e62d9b91cd29909f8572aa3e3cdf316b7c50f14708d49"
+      },
       "c:/users/anuitex/desktop/server/node_modules/@types/superagent/index.d.ts": {
-        "version": "e8bd972c3895277d7d9e702262a0408fbe36bb69c733bf26f9f15c396cad34c5",
-        "signature": "e8bd972c3895277d7d9e702262a0408fbe36bb69c733bf26f9f15c396cad34c5"
+        "version": "dc5ff565b22046c7e0fe8d7dd3bbc1fa6926426a048975c6ef2856c846d67f6c",
+        "signature": "dc5ff565b22046c7e0fe8d7dd3bbc1fa6926426a048975c6ef2856c846d67f6c"
       },
       "c:/users/anuitex/desktop/server/node_modules/@types/supertest/index.d.ts": {
-        "version": "79e8fe7df47b9eee82aba6de491c17ed11759171ed0ee0d804e83971b2a17fc3",
-        "signature": "79e8fe7df47b9eee82aba6de491c17ed11759171ed0ee0d804e83971b2a17fc3"
+        "version": "02a185b5e8d74b38264ffb77baa99e83969ba558958df28f971528dcbdd94876",
+        "signature": "02a185b5e8d74b38264ffb77baa99e83969ba558958df28f971528dcbdd94876"
+      },
+      "c:/users/anuitex/desktop/server/node_modules/@types/yargs-parser/index.d.ts": {
+        "version": "7b48555954a556ad80cc5fda89473d339f570eeac7a7b4d99c88ff5e646c24f7",
+        "signature": "7b48555954a556ad80cc5fda89473d339f570eeac7a7b4d99c88ff5e646c24f7"
+      },
+      "c:/users/anuitex/desktop/server/node_modules/@types/yargs/index.d.ts": {
+        "version": "6f15cf4b24659aa2b9f957dc0b4254b89f35a77978f9da1f161587b66ef75663",
+        "signature": "6f15cf4b24659aa2b9f957dc0b4254b89f35a77978f9da1f161587b66ef75663"
       }
     },
     "options": {
@@ -1516,20 +1304,16 @@
       "removeComments": true,
       "emitDecoratorMetadata": true,
       "experimentalDecorators": true,
-      "target": 2,
+      "target": 4,
       "sourceMap": true,
       "outDir": "C:/Users/Anuitex/Desktop/server/dist",
       "baseUrl": "C:/Users/Anuitex/Desktop/server/",
       "incremental": true,
-      "watch": true,
       "project": "tsconfig.build.json",
+      "watch": true,
       "configFilePath": "C:/Users/Anuitex/Desktop/server/tsconfig.build.json"
     },
     "referencedMap": {
-      "c:/users/anuitex/desktop/server/node_modules/typescript/lib/lib.es6.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "c:/users/anuitex/desktop/server/node_modules/typescript/lib/lib.es5.d.ts": [
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
@@ -1647,6 +1431,10 @@
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "c:/users/anuitex/desktop/server/node_modules/typescript/lib/lib.esnext.bigint.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/anuitex/desktop/server/node_modules/typescript/lib/lib.es2017.full.d.ts": [
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -2333,8 +2121,8 @@
       ],
       "c:/users/anuitex/desktop/server/node_modules/@types/node/child_process.d.ts": [
         "c:/users/anuitex/desktop/server/node_modules/@types/node/events.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/stream.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/net.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/stream.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -2387,9 +2175,9 @@
       ],
       "c:/users/anuitex/desktop/server/node_modules/@types/node/http.d.ts": [
         "c:/users/anuitex/desktop/server/node_modules/@types/node/events.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/net.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/stream.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/url.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/net.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -2504,6 +2292,7 @@
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "c:/users/anuitex/desktop/server/node_modules/@types/node/v8.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/stream.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -2512,6 +2301,7 @@
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "c:/users/anuitex/desktop/server/node_modules/@types/node/worker_threads.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/vm.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/events.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/stream.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
@@ -3112,63 +2902,10 @@
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/common/mongoose.decorators.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/common/mongoose.utils.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/rxjs/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/common/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/common/mongoose.decorators.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/common/mongoose.utils.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/interfaces/mongoose-options.interface.d.ts": [
+      "c:/users/anuitex/desktop/server/src/app.module.ts": [
         "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/interfaces/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/interfaces/mongoose-options.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/mongoose.module.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/interfaces/mongoose-options.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/interfaces/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/mongoose.module.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/products/dto/create-product.dto.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/products/interfaces/product.interface.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/products/products.service.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/src/products/dto/create-product.dto.ts",
-        "c:/users/anuitex/desktop/server/src/products/interfaces/product.interface.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/index.d.ts",
+        "c:/users/anuitex/desktop/server/src/app.controller.ts",
+        "c:/users/anuitex/desktop/server/src/app.service.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -3177,355 +2914,6 @@
         "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/index.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/external/cors-options.interface.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/nest-application-options.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/interfaces/serve-static-options.interface.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/adapters/express-adapter.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/external/cors-options.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/nest-application-options.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/adapters/http-adapter.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/interfaces/serve-static-options.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/adapters/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/adapters/express-adapter.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/interfaces/nest-express-application.interface.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/interfaces/serve-static-options.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/interfaces/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/interfaces/nest-express-application.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interfaces/multer-options.interface.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interceptors/file-fields.interceptor.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interfaces/multer-options.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interceptors/file.interceptor.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interfaces/multer-options.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interceptors/files.interceptor.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interfaces/multer-options.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interceptors/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interceptors/file-fields.interceptor.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interceptors/file.interceptor.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interceptors/files.interceptor.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interfaces/files-upload-module.interface.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interfaces/multer-options.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interfaces/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interfaces/files-upload-module.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/multer.module.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interfaces/files-upload-module.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interceptors/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interfaces/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/multer.module.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/adapters/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/interfaces/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/products/products.controller.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/src/products/dto/create-product.dto.ts",
-        "c:/users/anuitex/desktop/server/src/products/products.service.ts",
-        "c:/users/anuitex/desktop/server/src/products/interfaces/product.interface.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/products/schemas/product.schema.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/products/products.module.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/index.d.ts",
-        "c:/users/anuitex/desktop/server/src/products/products.controller.ts",
-        "c:/users/anuitex/desktop/server/src/products/products.service.ts",
-        "c:/users/anuitex/desktop/server/src/products/schemas/product.schema.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/abstract.strategy.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/interfaces/auth-module.options.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/interfaces/type.interface.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/interfaces/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/interfaces/auth-module.options.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/interfaces/type.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/auth.guard.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/interfaces/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/passport.module.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/interfaces/auth-module.options.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/passport/passport.serializer.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/passport/passport.strategy.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/interfaces/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/abstract.strategy.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/auth.guard.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/interfaces/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/passport.module.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/passport/passport.serializer.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/passport/passport.strategy.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/users/interfaces/user.interface.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/users/dto/create-user.dto.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/users/users.service.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/src/users/interfaces/user.interface.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/index.d.ts",
-        "c:/users/anuitex/desktop/server/src/users/dto/create-user.dto.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/users/users.controller.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/src/users/interfaces/user.interface.ts",
-        "c:/users/anuitex/desktop/server/src/users/users.service.ts",
-        "c:/users/anuitex/desktop/server/src/users/dto/create-user.dto.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/users/schemas/user.schema.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/users/users.module.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/index.d.ts",
-        "c:/users/anuitex/desktop/server/src/users/users.controller.ts",
-        "c:/users/anuitex/desktop/server/src/users/users.service.ts",
-        "c:/users/anuitex/desktop/server/src/users/schemas/user.schema.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@types/jsonwebtoken/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/interfaces/jwt-module-options.interface.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/jsonwebtoken/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/interfaces/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/interfaces/jwt-module-options.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/jwt.module.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/interfaces/jwt-module-options.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/jwt.service.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@types/jsonwebtoken/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/interfaces/jwt-module-options.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/interfaces/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/jwt.module.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/jwt.service.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/products/dto/login-user.dto.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/auth/interfaces/jwt-payload.interface.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/auth/auth.service.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/index.d.ts",
-        "c:/users/anuitex/desktop/server/src/products/dto/login-user.dto.ts",
-        "c:/users/anuitex/desktop/server/src/auth/interfaces/jwt-payload.interface.ts",
-        "c:/users/anuitex/desktop/server/src/users/users.service.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/auth/auth.controller.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/src/auth/auth.service.ts",
-        "c:/users/anuitex/desktop/server/src/products/dto/login-user.dto.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/auth/strategies/jwt.strategy.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/src/auth/auth.service.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/index.d.ts",
-        "c:/users/anuitex/desktop/server/src/auth/interfaces/jwt-payload.interface.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/auth/auth.module.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/index.d.ts",
-        "c:/users/anuitex/desktop/server/src/auth/auth.service.ts",
-        "c:/users/anuitex/desktop/server/src/auth/auth.controller.ts",
-        "c:/users/anuitex/desktop/server/src/auth/strategies/jwt.strategy.ts",
-        "c:/users/anuitex/desktop/server/src/users/users.module.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/orders/dto/create-order.dto.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/orders/interfaces/order.interface.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/orders/orders.service.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/index.d.ts",
-        "c:/users/anuitex/desktop/server/src/orders/interfaces/order.interface.ts",
-        "c:/users/anuitex/desktop/server/src/orders/dto/create-order.dto.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/orders/orders.controller.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/src/orders/dto/create-order.dto.ts",
-        "c:/users/anuitex/desktop/server/src/orders/orders.service.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/orders/schemas/order.schema.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/orders/orders.module.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/index.d.ts",
-        "c:/users/anuitex/desktop/server/src/orders/orders.controller.ts",
-        "c:/users/anuitex/desktop/server/src/orders/orders.service.ts",
-        "c:/users/anuitex/desktop/server/src/orders/schemas/order.schema.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/app.module.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/src/app.controller.ts",
-        "c:/users/anuitex/desktop/server/src/app.service.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/index.d.ts",
-        "c:/users/anuitex/desktop/server/src/products/products.service.ts",
-        "c:/users/anuitex/desktop/server/src/products/products.controller.ts",
-        "c:/users/anuitex/desktop/server/src/products/products.module.ts",
-        "c:/users/anuitex/desktop/server/src/users/users.module.ts",
-        "c:/users/anuitex/desktop/server/src/users/users.controller.ts",
-        "c:/users/anuitex/desktop/server/src/users/users.service.ts",
-        "c:/users/anuitex/desktop/server/src/auth/auth.module.ts",
-        "c:/users/anuitex/desktop/server/src/auth/auth.controller.ts",
-        "c:/users/anuitex/desktop/server/src/auth/auth.service.ts",
-        "c:/users/anuitex/desktop/server/src/orders/orders.module.ts",
-        "c:/users/anuitex/desktop/server/src/orders/orders.controller.ts",
-        "c:/users/anuitex/desktop/server/src/orders/orders.service.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -3559,15 +2947,11 @@
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/configuration-provider.interface.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/features/nest-interceptor.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/features/can-activate.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/application-config.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/configuration-provider.interface.d.ts",
+      "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/injector/module.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/index.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/type.interface.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/injector/container.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/injector/instance-wrapper.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -3577,10 +2961,8 @@
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/injector/module.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/type.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/injector/container.d.ts",
+      "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/application-config.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/injector/instance-wrapper.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
@@ -3704,6 +3086,7 @@
         "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/middleware/index.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/nest-application.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/nest-application-context.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/application-config.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/nest-factory.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/router/index.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/services/index.d.ts",
@@ -3716,15 +3099,37 @@
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/anuitex/desktop/server/src/auth/dto/create-user.dto.ts": [
+      "c:/users/anuitex/desktop/server/node_modules/@babel/types/lib/index.d.ts": [
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/anuitex/desktop/server/src/auth/interfaces/user.interface.ts": [
+      "c:/users/anuitex/desktop/server/node_modules/@types/babel__generator/index.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@babel/types/lib/index.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/anuitex/desktop/server/src/auth/schemas/user.schema.ts": [
+      "c:/users/anuitex/desktop/server/node_modules/@types/babel__traverse/index.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@babel/types/lib/index.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/anuitex/desktop/server/node_modules/@babel/parser/typings/babel-parser.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@babel/types/lib/index.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/anuitex/desktop/server/node_modules/@types/babel__template/index.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@babel/types/lib/index.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/anuitex/desktop/server/node_modules/@types/babel__core/index.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@types/babel__generator/index.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/babel__traverse/index.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/babel__template/index.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@babel/types/lib/index.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@babel/parser/typings/babel-parser.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -3774,11 +3179,45 @@
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "c:/users/anuitex/desktop/server/node_modules/@types/istanbul-lib-coverage/index.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/anuitex/desktop/server/node_modules/@types/istanbul-lib-report/index.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@types/istanbul-lib-coverage/index.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/anuitex/desktop/server/node_modules/@types/istanbul-reports/index.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@types/istanbul-lib-report/index.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/istanbul-lib-coverage/index.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/anuitex/desktop/server/node_modules/@types/jest-diff/index.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/anuitex/desktop/server/node_modules/jest-diff/build/types.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/anuitex/desktop/server/node_modules/jest-diff/build/index.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/jest-diff/build/types.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "c:/users/anuitex/desktop/server/node_modules/@types/jest/index.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/jest-diff/build/index.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/jest-diff/index.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "c:/users/anuitex/desktop/server/node_modules/@types/json5/index.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/anuitex/desktop/server/node_modules/@types/stack-utils/index.d.ts": [
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -3795,13 +3234,18 @@
         "c:/users/anuitex/desktop/server/node_modules/@types/superagent/index.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ]
-    },
-    "exportedModulesMap": {
-      "c:/users/anuitex/desktop/server/node_modules/typescript/lib/lib.es6.d.ts": [
+      ],
+      "c:/users/anuitex/desktop/server/node_modules/@types/yargs-parser/index.d.ts": [
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "c:/users/anuitex/desktop/server/node_modules/@types/yargs/index.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@types/yargs-parser/index.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
       "c:/users/anuitex/desktop/server/node_modules/typescript/lib/lib.es5.d.ts": [
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
@@ -3919,6 +3363,10 @@
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "c:/users/anuitex/desktop/server/node_modules/typescript/lib/lib.esnext.bigint.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/anuitex/desktop/server/node_modules/typescript/lib/lib.es2017.full.d.ts": [
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -4605,8 +4053,8 @@
       ],
       "c:/users/anuitex/desktop/server/node_modules/@types/node/child_process.d.ts": [
         "c:/users/anuitex/desktop/server/node_modules/@types/node/events.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/stream.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/net.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/stream.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -4659,9 +4107,9 @@
       ],
       "c:/users/anuitex/desktop/server/node_modules/@types/node/http.d.ts": [
         "c:/users/anuitex/desktop/server/node_modules/@types/node/events.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/net.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/stream.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/url.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/net.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -4776,6 +4224,7 @@
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "c:/users/anuitex/desktop/server/node_modules/@types/node/v8.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/stream.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -4784,6 +4233,7 @@
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "c:/users/anuitex/desktop/server/node_modules/@types/node/worker_threads.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/vm.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/events.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/stream.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
@@ -5376,54 +4826,6 @@
       "c:/users/anuitex/desktop/server/src/app.controller.ts": [
         "c:/users/anuitex/desktop/server/src/app.service.ts"
       ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/common/mongoose.decorators.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/common/mongoose.utils.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/rxjs/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/common/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/common/mongoose.decorators.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/common/mongoose.utils.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/interfaces/mongoose-options.interface.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/interfaces/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/interfaces/mongoose-options.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/mongoose.module.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/interfaces/mongoose-options.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/interfaces/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/mongoose.module.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/products/products.service.ts": [
-        "c:/users/anuitex/desktop/server/src/products/interfaces/product.interface.ts",
-        "c:/users/anuitex/desktop/server/src/products/dto/create-product.dto.ts"
-      ],
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/adapters/http-adapter.d.ts": [
         "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/index.d.ts",
@@ -5431,230 +4833,6 @@
         "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/nest-application-options.interface.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/interfaces/serve-static-options.interface.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/adapters/express-adapter.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/external/cors-options.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/nest-application-options.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/adapters/http-adapter.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/interfaces/serve-static-options.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/adapters/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/adapters/express-adapter.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/interfaces/nest-express-application.interface.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/interfaces/serve-static-options.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/interfaces/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/interfaces/nest-express-application.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interfaces/multer-options.interface.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interceptors/file-fields.interceptor.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interfaces/multer-options.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interceptors/file.interceptor.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interfaces/multer-options.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interceptors/files.interceptor.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interfaces/multer-options.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interceptors/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interceptors/file-fields.interceptor.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interceptors/file.interceptor.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interceptors/files.interceptor.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interfaces/files-upload-module.interface.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interfaces/multer-options.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interfaces/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interfaces/files-upload-module.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/multer.module.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interfaces/files-upload-module.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interceptors/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interfaces/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/multer.module.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/adapters/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/interfaces/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/products/products.controller.ts": [
-        "c:/users/anuitex/desktop/server/src/products/products.service.ts",
-        "c:/users/anuitex/desktop/server/src/products/interfaces/product.interface.ts",
-        "c:/users/anuitex/desktop/server/src/products/dto/create-product.dto.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/abstract.strategy.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/interfaces/auth-module.options.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/interfaces/type.interface.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/interfaces/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/interfaces/auth-module.options.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/interfaces/type.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/auth.guard.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/interfaces/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/passport.module.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/interfaces/auth-module.options.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/passport/passport.serializer.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/passport/passport.strategy.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/interfaces/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/abstract.strategy.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/auth.guard.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/interfaces/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/passport.module.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/passport/passport.serializer.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/passport/passport.strategy.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/users/users.service.ts": [
-        "c:/users/anuitex/desktop/server/src/users/interfaces/user.interface.ts",
-        "c:/users/anuitex/desktop/server/src/users/dto/create-user.dto.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/users/users.controller.ts": [
-        "c:/users/anuitex/desktop/server/src/users/users.service.ts",
-        "c:/users/anuitex/desktop/server/src/users/interfaces/user.interface.ts",
-        "c:/users/anuitex/desktop/server/src/users/dto/create-user.dto.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@types/jsonwebtoken/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/interfaces/jwt-module-options.interface.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/jsonwebtoken/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/interfaces/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/interfaces/jwt-module-options.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/jwt.module.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/interfaces/jwt-module-options.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/jwt.service.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@types/jsonwebtoken/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/interfaces/jwt-module-options.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/interfaces/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/jwt.module.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/jwt.service.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/index.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/auth/auth.service.ts": [
-        "c:/users/anuitex/desktop/server/src/users/users.service.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/index.d.ts",
-        "c:/users/anuitex/desktop/server/src/products/dto/login-user.dto.ts",
-        "c:/users/anuitex/desktop/server/src/auth/interfaces/jwt-payload.interface.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/auth/auth.controller.ts": [
-        "c:/users/anuitex/desktop/server/src/auth/auth.service.ts",
-        "c:/users/anuitex/desktop/server/src/products/dto/login-user.dto.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/auth/strategies/jwt.strategy.ts": [
-        "c:/users/anuitex/desktop/server/src/auth/auth.service.ts",
-        "c:/users/anuitex/desktop/server/src/auth/interfaces/jwt-payload.interface.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/orders/orders.service.ts": [
-        "c:/users/anuitex/desktop/server/src/orders/interfaces/order.interface.ts",
-        "c:/users/anuitex/desktop/server/src/orders/dto/create-order.dto.ts"
-      ],
-      "c:/users/anuitex/desktop/server/src/orders/orders.controller.ts": [
-        "c:/users/anuitex/desktop/server/src/orders/orders.service.ts",
-        "c:/users/anuitex/desktop/server/src/orders/dto/create-order.dto.ts"
       ],
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/adapters/index.d.ts": [
         "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/adapters/http-adapter.d.ts",
@@ -5686,15 +4864,11 @@
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/configuration-provider.interface.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/features/nest-interceptor.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/features/can-activate.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/application-config.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/configuration-provider.interface.d.ts",
+      "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/injector/module.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/index.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/type.interface.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/injector/container.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/injector/instance-wrapper.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -5704,10 +4878,8 @@
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/injector/module.d.ts": [
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/index.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/type.interface.d.ts",
-        "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/injector/container.d.ts",
+      "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/application-config.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/injector/instance-wrapper.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
@@ -5831,9 +5003,44 @@
         "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/middleware/index.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/nest-application.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/nest-application-context.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/application-config.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/nest-factory.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/router/index.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/services/index.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/anuitex/desktop/server/node_modules/@babel/types/lib/index.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/anuitex/desktop/server/node_modules/@types/babel__generator/index.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@babel/types/lib/index.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/anuitex/desktop/server/node_modules/@types/babel__traverse/index.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@babel/types/lib/index.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/anuitex/desktop/server/node_modules/@babel/parser/typings/babel-parser.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@babel/types/lib/index.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/anuitex/desktop/server/node_modules/@types/babel__template/index.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@babel/types/lib/index.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/anuitex/desktop/server/node_modules/@types/babel__core/index.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@types/babel__generator/index.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/babel__traverse/index.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/babel__template/index.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@babel/types/lib/index.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@babel/parser/typings/babel-parser.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -5883,11 +5090,45 @@
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "c:/users/anuitex/desktop/server/node_modules/@types/istanbul-lib-coverage/index.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/anuitex/desktop/server/node_modules/@types/istanbul-lib-report/index.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@types/istanbul-lib-coverage/index.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/anuitex/desktop/server/node_modules/@types/istanbul-reports/index.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@types/istanbul-lib-report/index.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/istanbul-lib-coverage/index.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/anuitex/desktop/server/node_modules/@types/jest-diff/index.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/anuitex/desktop/server/node_modules/jest-diff/build/types.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/anuitex/desktop/server/node_modules/jest-diff/build/index.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/jest-diff/build/types.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "c:/users/anuitex/desktop/server/node_modules/@types/jest/index.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/jest-diff/build/index.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/jest-diff/index.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "c:/users/anuitex/desktop/server/node_modules/@types/json5/index.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/anuitex/desktop/server/node_modules/@types/stack-utils/index.d.ts": [
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -5904,10 +5145,18 @@
         "c:/users/anuitex/desktop/server/node_modules/@types/superagent/index.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
         "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/anuitex/desktop/server/node_modules/@types/yargs-parser/index.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/anuitex/desktop/server/node_modules/@types/yargs/index.d.ts": [
+        "c:/users/anuitex/desktop/server/node_modules/@types/yargs-parser/index.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/util.d.ts",
+        "c:/users/anuitex/desktop/server/node_modules/@types/node/ts3.2/util.d.ts"
       ]
     },
     "semanticDiagnosticsPerFile": [
-      "c:/users/anuitex/desktop/server/node_modules/typescript/lib/lib.es6.d.ts",
       "c:/users/anuitex/desktop/server/node_modules/typescript/lib/lib.es5.d.ts",
       "c:/users/anuitex/desktop/server/node_modules/typescript/lib/lib.es2015.d.ts",
       "c:/users/anuitex/desktop/server/node_modules/typescript/lib/lib.es2016.d.ts",
@@ -5938,6 +5187,7 @@
       "c:/users/anuitex/desktop/server/node_modules/typescript/lib/lib.es2018.regexp.d.ts",
       "c:/users/anuitex/desktop/server/node_modules/typescript/lib/lib.esnext.intl.d.ts",
       "c:/users/anuitex/desktop/server/node_modules/typescript/lib/lib.esnext.bigint.d.ts",
+      "c:/users/anuitex/desktop/server/node_modules/typescript/lib/lib.es2017.full.d.ts",
       "c:/users/anuitex/desktop/server/node_modules/reflect-metadata/index.d.ts",
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/cache/cache.constants.d.ts",
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/abstract.interface.d.ts",
@@ -6175,82 +5425,17 @@
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/index.d.ts",
       "c:/users/anuitex/desktop/server/src/app.service.ts",
       "c:/users/anuitex/desktop/server/src/app.controller.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/common/mongoose.decorators.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/common/mongoose.utils.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/common/index.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/interfaces/mongoose-options.interface.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/interfaces/index.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/mongoose.module.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/dist/index.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/mongoose/index.d.ts",
-      "c:/users/anuitex/desktop/server/src/products/dto/create-product.dto.ts",
-      "c:/users/anuitex/desktop/server/src/products/interfaces/product.interface.ts",
-      "c:/users/anuitex/desktop/server/src/products/products.service.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/adapters/http-adapter.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/interfaces/serve-static-options.interface.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/adapters/express-adapter.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/adapters/index.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/interfaces/nest-express-application.interface.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/interfaces/index.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interfaces/multer-options.interface.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interceptors/file-fields.interceptor.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interceptors/file.interceptor.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interceptors/files.interceptor.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interceptors/index.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interfaces/files-upload-module.interface.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/interfaces/index.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/multer.module.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/multer/index.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/platform-express/index.d.ts",
-      "c:/users/anuitex/desktop/server/src/products/products.controller.ts",
-      "c:/users/anuitex/desktop/server/src/products/schemas/product.schema.ts",
-      "c:/users/anuitex/desktop/server/src/products/products.module.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/abstract.strategy.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/interfaces/auth-module.options.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/interfaces/type.interface.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/interfaces/index.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/auth.guard.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/passport.module.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/passport/passport.serializer.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/passport/passport.strategy.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/dist/index.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/passport/index.d.ts",
-      "c:/users/anuitex/desktop/server/src/users/interfaces/user.interface.ts",
-      "c:/users/anuitex/desktop/server/src/users/dto/create-user.dto.ts",
-      "c:/users/anuitex/desktop/server/src/users/users.service.ts",
-      "c:/users/anuitex/desktop/server/src/users/users.controller.ts",
-      "c:/users/anuitex/desktop/server/src/users/schemas/user.schema.ts",
-      "c:/users/anuitex/desktop/server/src/users/users.module.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@types/jsonwebtoken/index.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/interfaces/jwt-module-options.interface.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/interfaces/index.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/jwt.module.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/jwt.service.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/dist/index.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/jwt/index.d.ts",
-      "c:/users/anuitex/desktop/server/src/products/dto/login-user.dto.ts",
-      "c:/users/anuitex/desktop/server/src/auth/interfaces/jwt-payload.interface.ts",
-      "c:/users/anuitex/desktop/server/src/auth/auth.service.ts",
-      "c:/users/anuitex/desktop/server/src/auth/auth.controller.ts",
-      "c:/users/anuitex/desktop/server/src/auth/strategies/jwt.strategy.ts",
-      "c:/users/anuitex/desktop/server/src/auth/auth.module.ts",
-      "c:/users/anuitex/desktop/server/src/orders/dto/create-order.dto.ts",
-      "c:/users/anuitex/desktop/server/src/orders/interfaces/order.interface.ts",
-      "c:/users/anuitex/desktop/server/src/orders/orders.service.ts",
-      "c:/users/anuitex/desktop/server/src/orders/orders.controller.ts",
-      "c:/users/anuitex/desktop/server/src/orders/schemas/order.schema.ts",
-      "c:/users/anuitex/desktop/server/src/orders/orders.module.ts",
       "c:/users/anuitex/desktop/server/src/app.module.ts",
+      "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/adapters/http-adapter.d.ts",
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/adapters/index.d.ts",
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/constants.d.ts",
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/helpers/http-adapter-host.d.ts",
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/helpers/index.d.ts",
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/exceptions/base-exception-filter.d.ts",
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/exceptions/index.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/common/interfaces/configuration-provider.interface.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/application-config.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/injector/instance-wrapper.d.ts",
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/injector/module.d.ts",
+      "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/injector/instance-wrapper.d.ts",
+      "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/application-config.d.ts",
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/injector/modules-container.d.ts",
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/injector/container.d.ts",
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/injector/module-ref.d.ts",
@@ -6268,10 +5453,12 @@
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/services/reflector.service.d.ts",
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/services/index.d.ts",
       "c:/users/anuitex/desktop/server/node_modules/@nestjs/core/index.d.ts",
-      "c:/users/anuitex/desktop/server/src/main.ts",
-      "c:/users/anuitex/desktop/server/src/auth/dto/create-user.dto.ts",
-      "c:/users/anuitex/desktop/server/src/auth/interfaces/user.interface.ts",
-      "c:/users/anuitex/desktop/server/src/auth/schemas/user.schema.ts",
+      "c:/users/anuitex/desktop/server/node_modules/@babel/types/lib/index.d.ts",
+      "c:/users/anuitex/desktop/server/node_modules/@types/babel__generator/index.d.ts",
+      "c:/users/anuitex/desktop/server/node_modules/@types/babel__traverse/index.d.ts",
+      "c:/users/anuitex/desktop/server/node_modules/@babel/parser/typings/babel-parser.d.ts",
+      "c:/users/anuitex/desktop/server/node_modules/@types/babel__template/index.d.ts",
+      "c:/users/anuitex/desktop/server/node_modules/@types/babel__core/index.d.ts",
       "c:/users/anuitex/desktop/server/node_modules/@types/connect/index.d.ts",
       "c:/users/anuitex/desktop/server/node_modules/@types/body-parser/index.d.ts",
       "c:/users/anuitex/desktop/server/node_modules/@types/cookiejar/index.d.ts",
@@ -6280,11 +5467,21 @@
       "c:/users/anuitex/desktop/server/node_modules/@types/mime/index.d.ts",
       "c:/users/anuitex/desktop/server/node_modules/@types/serve-static/index.d.ts",
       "c:/users/anuitex/desktop/server/node_modules/@types/express/index.d.ts",
+      "c:/users/anuitex/desktop/server/node_modules/@types/istanbul-lib-coverage/index.d.ts",
+      "c:/users/anuitex/desktop/server/node_modules/@types/istanbul-lib-report/index.d.ts",
+      "c:/users/anuitex/desktop/server/node_modules/@types/istanbul-reports/index.d.ts",
+      "c:/users/anuitex/desktop/server/node_modules/@types/jest-diff/index.d.ts",
+      "c:/users/anuitex/desktop/server/node_modules/jest-diff/build/types.d.ts",
+      "c:/users/anuitex/desktop/server/node_modules/jest-diff/build/index.d.ts",
       "c:/users/anuitex/desktop/server/node_modules/@types/jest/index.d.ts",
       "c:/users/anuitex/desktop/server/node_modules/@types/json5/index.d.ts",
+      "c:/users/anuitex/desktop/server/node_modules/@types/stack-utils/index.d.ts",
       "c:/users/anuitex/desktop/server/node_modules/@types/superagent/index.d.ts",
-      "c:/users/anuitex/desktop/server/node_modules/@types/supertest/index.d.ts"
+      "c:/users/anuitex/desktop/server/node_modules/@types/supertest/index.d.ts",
+      "c:/users/anuitex/desktop/server/node_modules/@types/yargs-parser/index.d.ts",
+      "c:/users/anuitex/desktop/server/node_modules/@types/yargs/index.d.ts",
+      "c:/users/anuitex/desktop/server/src/main.ts"
     ]
   },
-  "version": "3.4.3"
+  "version": "3.5.3"
 }
