@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "description": "Nest TypeScript starter repository",
+  "main": "src/main.ts",
   "license": "MIT",
   "scripts": {
     "build": "rimraf dist && tsc -p tsconfig.build.json",
